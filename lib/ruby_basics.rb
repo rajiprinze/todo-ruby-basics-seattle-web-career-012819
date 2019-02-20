@@ -24,6 +24,4 @@ end
 
 def pizza_party(arg)
 return arg
-"cheese"
-
 end
